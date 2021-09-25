@@ -1,5 +1,5 @@
 # ChildArrayBubbleSort
-OUTPUT BEFORE NAD AFTER SORTING
+OUTPUT BEFORE AND AFTER SORTING
 
 
 Fullname: Ian Mumo | Age: 3
